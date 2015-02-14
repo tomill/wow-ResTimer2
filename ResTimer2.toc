@@ -1,0 +1,6 @@
+## Interface: 60000
+## Title: Res Timer 2 
+## Notes: by Displays Res Timers in BG's. Firebunny - Outland EU
+## Author: Tomill
+
+ResTimer2.lua
